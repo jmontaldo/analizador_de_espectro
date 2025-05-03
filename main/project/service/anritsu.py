@@ -15,8 +15,8 @@ def commands_logs(func):
 
 class SpectrumAnalizer():
 
-    ip_address="10.177.18.216"
-    port=9001
+    ip_address=" " #The IP of your Spectrum analyzer goes here.
+    port=9001   #Default port
 
     @classmethod
     @commands_logs

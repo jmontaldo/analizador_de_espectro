@@ -11,6 +11,9 @@ aparecera dentro del treeview, seleccionamos la señal y cargamos la informació
 en el analizador, bastará con seleccionar la opción y asignarle un nombre al archivo. El archivo generado será del tipo json,
 para graficarlo, debemos seleccionar el menú 'archivo --> abrir' y seleccionar el archivo deseado.
 
+## Dependencias
+ - matplotlib
+
 ### Imagenes
 
 ![programa_ejecutandose_con_analizador_de_espectro](/main/imgs/analizer_encuentro.jpg)
