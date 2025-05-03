@@ -1,0 +1,4 @@
+titulo = "Analizador de espectro"
+descripción = "Controlador para el analizador de espectro Anritsu MS27101A"
+version = 1.0.0
+autor = jmontaldo

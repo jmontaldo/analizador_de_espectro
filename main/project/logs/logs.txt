@@ -1,0 +1,2 @@
+2025-04-22 08:11:39.811962 - send_command: SENS:FREQ:CENT 1135 MHZ;:SENS:FREQ:SPAN 42.5 MHz
+2025-04-22 10:46:57.959847 - send_command: trac1:type NORM;:init:cont 1
